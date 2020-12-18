@@ -9,7 +9,7 @@ published: true
 本記事は[Vim2 Advent Calendar 2020](https://qiita.com/advent-calendar/2020/vim2)の 18 日目の記事です。
 
 - 17 日目：[君はまだ Vim の真の美しさを知らない - Qiita](https://qiita.com/psyashes/items/1e1716a59a0dc22ea204) by [psyashes](https://qiita.com/psyashes)さん
-- 19 日目：(のちほど) by [ryosk7](https://qiita.com/ryosk7)さん
+- 19 日目：[僕がVim色に染まるまで](https://qiita.com/ryosk7/items/1e2679f9dbe5692f6da1) by [ryosk7](https://qiita.com/ryosk7)さん
 
 # Topic
 
