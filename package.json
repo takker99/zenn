@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:takker99/zenn.git",
+  "author": "takker99 <37929109+takker99@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "zenn-cli": "^0.1.62"
+  }
+}
