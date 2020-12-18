@@ -3,7 +3,7 @@ title: "ScrapboxでVim key bindingsを作ろうと試行錯誤する話"
 emoji: "🦔"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vim", "scrapbox", "javascript"]
-published: false
+published: true
 ---
 
 本記事は[Vim2 Advent Calendar 2020](https://qiita.com/advent-calendar/2020/vim2)の 18 日目の記事です。
